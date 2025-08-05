@@ -1,1 +1,3 @@
-# odin-recipes
+This project is a website that I will willingly use and improve throughout my college life. An easy, efficient, accessible, and a no hassle website with ingredients I find scrumptious, simple, healthy, and look good.
+
+I showcased proper boiler plate, use of proper semantics (heading, paragraph, strong, and em tags), relative and absolute links with anchor, ordered and unordered list, image tags finding the significance of alternate text, proper title, proper naming, proper structure, and proper attribution. Also including use of git and github, writing good commits and following conventional commits in terminal and in VScode, screenshot a youtube video and use of HTML validator.
